@@ -1,5 +1,6 @@
 ---
 title: "Gissa platsen"
+type: "Post"
 ---
 
 # Test
