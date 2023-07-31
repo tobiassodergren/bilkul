@@ -1,6 +1,9 @@
 baseURL = "/"
 themesDir = "themes"
-theme = "hugo-whisper-theme"
+theme = "hugo-PaperMod-7.0"
+languageCode = "se"
+DefaultContentLanguage = "se"
+enableInlineShortcodes = true
 
 [[menu.main]]
 name = "Home"
